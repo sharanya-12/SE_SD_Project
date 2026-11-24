@@ -1,0 +1,6 @@
+{
+  "name": "CurbGrid",
+  "description": "Find, compare, and reserve real-time urban parking garages, EV bays, and airport lots with interactive map discovery and instant digital gate passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
